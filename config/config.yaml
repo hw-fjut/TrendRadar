@@ -98,3 +98,5 @@ platforms:
     name: "掘金"
   - id: "github"
     name: "GitHub"
+  - id: "sspai"
+    name: "少数派"
